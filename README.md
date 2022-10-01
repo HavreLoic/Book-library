@@ -14,7 +14,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://havreloic.github.io/Book-library/)
 
 ### Built with
 
@@ -22,4 +22,4 @@
 
 ## Author
 
-- Website - [Havre Loic](https://www.your-site.com)
+- Website - [Havre Loic](https://havreloic.netlify.app/)
