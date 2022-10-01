@@ -14,7 +14,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://havreloic.github.io/Book-library/)
+- Live Site URL: [live site URL](https://havreloic.github.io/Book-library/)
 
 ### Built with
 
